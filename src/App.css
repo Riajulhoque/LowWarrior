@@ -1,0 +1,153 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+.Banner{
+  background-image: url(../assets/banner-img-1.png);
+  height: 550px;
+  text-align: center;
+  color: aliceblue;
+  h1{
+    margin: auto;
+    font-size: 44px;
+    font-weight: 600;
+    width: 60%;
+    padding-top: 140px;
+  }
+  p{
+    padding-top: 80px;
+    margin: auto;
+    font-size: 18px;
+    font-weight: 500;
+    width: 60%;
+    /* color: #ffffff; */
+    color: rgb(180, 180, 180);
+  }
+}
+.bestLowyer{
+ h1{
+    margin: auto;
+    font-size: 44px;
+    font-weight: 600;
+    padding-top: 40px;
+    text-align: center;
+  }
+  p{
+    text-align: center;
+    padding: 80px 40px;
+    margin: auto;
+    font-size: 18px;
+    font-weight: 500;
+    color: rgb(180, 180, 180);
+  }
+}
+.lowyerCard{
+  display: flex;
+  .lowyerImg{
+    img{
+      width: 200px;
+      height: 200px;
+    }
+  }
+  .lowyerInfo{
+    h2{
+      font-size: 20px;
+      font-family: serif;
+      font-weight: 600;
+      margin-top: 5px;
+    }
+    p{
+        font-size: 16px;
+      font-family: serif;
+      font-weight: 500;
+      
+    }
+  }
+}
+.LawServices{
+   h1{
+    margin: auto;
+    font-size: 44px;
+    font-weight: 600;
+    padding-top: 80px;
+    text-align: center;
+  }
+  p{
+    text-align: center;
+    padding: 40px 40px;
+    margin: auto;
+    font-size: 18px;
+    font-weight: 500;
+    color: rgb(180, 180, 180);
+  }
+  .lawServices{
+    .lawService_card{
+      img{
+        padding: 30px;
+        text-align: center;
+      }
+      h2{
+      font-size: 20px;
+      font-family: serif;
+      font-weight: 600;
+      margin-top: 5px;
+    }
+    h3{
+        font-size: 16px;
+      font-family: serif;
+      font-weight: 500;
+      padding: 0px;
+      color: black;
+      text-align: left;
+    }
+    }
+  }
+}
+.LawyerProfileHeader{
+    h1{
+    margin: auto;
+    font-size: 44px;
+    font-weight: 600;
+    padding-top: 80px;
+    text-align: center;
+  }
+  p{
+    text-align: center;
+    padding: 40px 40px;
+    margin: auto;
+    font-size: 18px;
+    font-weight: 500;
+    color: rgb(74, 74, 74);
+  }
+}
+.Appointment{
+  h1{
+    margin: auto;
+    font-size: 30px;
+    font-weight: 600;
+    padding-top: 20px;
+    text-align: center;
+  }
+  h2{
+      font-size: 20px;
+      font-family: serif;
+      font-weight: 600;
+      margin-top: 5px;
+    }
+
+}
+.lowyerInfo{
+  h2{
+      font-size: 20px;
+      font-family: serif;
+      font-weight: 600;
+      margin-top: 5px;
+    }
+    p{
+    text-align: center;
+    /* padding: 40px 40px; */
+    /* margin: auto; */
+    font-size: 16px;
+    font-weight: 500;
+    color: rgb(74, 74, 74);
+  }
+}

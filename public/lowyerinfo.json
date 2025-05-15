@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "name": "Sarah Mitchell",
+    "speciality": "Corporate Law",
+    "experience": "10 years",
+    "licenseNumber": "CLX-203948",
+    "fee": "$200/hr",
+    "availability": ["Monday", "Wednesday", "Friday"],
+    "image": "https://i.ibb.co/RpRzn3Wn/lawyer.png"
+  },
+  {
+    "id": 2,
+    "name": "James Patel",
+    "speciality": "Criminal Defense",
+    "experience": "15 years",
+    "licenseNumber": "CDL-102394",
+    "fee": "$250/hr",
+    "availability": ["Tuesday", "Thursday"],
+    "image": "https://i.ibb.co/RpRzn3Wn/lawyer.png"
+  },
+  {
+    "id": 3,
+    "name": "Linda Zhou",
+    "speciality": "Family Law",
+    "experience": "12 years",
+    "licenseNumber": "FLX-990182",
+    "fee": "$180/hr",
+    "availability": ["Monday", "Wednesday"],
+    "image": "https://i.ibb.co/RpRzn3Wn/lawyer.png"
+  },
+  {
+    "id": 4,
+    "name": "Michael O'Neal",
+    "speciality": "Immigration Law",
+    "experience": "8 years",
+    "licenseNumber": "IML-837261",
+    "fee": "$160/hr",
+    "availability": ["Tuesday", "Thursday", "Friday"],
+    "image": "https://i.ibb.co/RpRzn3Wn/lawyer.png"
+  },
+  {
+    "id": 5,
+    "name": "Priya Singh",
+    "speciality": "Intellectual Property",
+    "experience": "11 years",
+    "licenseNumber": "IPL-554311",
+    "fee": "$220/hr",
+    "availability": ["Wednesday", "Friday"],
+    "image": "https://i.ibb.co/RpRzn3Wn/lawyer.png"
+  },
+  {
+    "id": 6,
+    "name": "Daniel Gomez",
+    "speciality": "Personal Injury",
+    "experience": "9 years",
+    "licenseNumber": "PIL-003912",
+    "fee": "$190/hr",
+    "availability": ["Monday", "Tuesday", "Thursday"],
+    "image": "https://i.ibb.co/RpRzn3Wn/lawyer.png"
+  },
+  {
+    "id": 7,
+    "name": "Emma Johansson",
+    "speciality": "Tax Law",
+    "experience": "14 years",
+    "licenseNumber": "TXL-475839",
+    "fee": "$210/hr",
+    "availability": ["Tuesday", "Friday"],
+    "image": "https://i.ibb.co/RpRzn3Wn/lawyer.png"
+  },
+  {
+    "id": 8,
+    "name": "Mohammed Al-Farsi",
+    "speciality": "Environmental Law",
+    "experience": "7 years",
+    "licenseNumber": "ENV-665812",
+    "fee": "$170/hr",
+    "availability": ["Monday", "Wednesday"],
+    "image": "https://i.ibb.co/RpRzn3Wn/lawyer.png"
+  },
+  {
+    "id": 9,
+    "name": "Chloe Bennett",
+    "speciality": "Civil Rights",
+    "experience": "13 years",
+    "licenseNumber": "CRL-982341",
+    "fee": "$230/hr",
+    "availability": ["Thursday", "Friday"],
+    "image": "https://i.ibb.co/RpRzn3Wn/lawyer.png"
+  },
+  {
+    "id": 10,
+    "name": "Raj Mehta",
+    "speciality": "Employment Law",
+    "experience": "10 years",
+    "licenseNumber": "EMP-456700",
+    "fee": "$200/hr",
+    "availability": ["Monday", "Wednesday", "Friday"],
+    "image": "https://i.ibb.co/RpRzn3Wn/lawyer.png"
+  }
+]
